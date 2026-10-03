@@ -1,0 +1,8 @@
+{
+  "name": "Remix LIBAS HOME - Luxury Fashion \u0026 Home Couture",
+  "description": "Official LIBAS HOME boutique featuring luxury eastern fashion, unstitched collections, embroidered prêt, home textiles, direct WhatsApp ordering (+92 303 4095758) and official social media channels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
